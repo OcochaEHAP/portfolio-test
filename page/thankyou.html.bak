@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta
+			http-equiv="X-UA-Compatible"
+			content="IE=edge" />
+		<meta
+			name="viewport"
+			content="width=device-width, initial-scale=1.0" />
+		<title>oussama</title>
+		<style>
+			body {
+				height: 100vh;
+				display: flex;
+				justify-content: center;
+				align-items: center;
+			}
+			div {
+				width: 85%;
+				border-radius: 5px;
+				background: #5f8ba0;
+				padding: 3rem;
+				text-align: center;
+			}
+			h1 {
+				padding: 15px;
+			}
+			a {
+				text-decoration: none;
+				background: #212529;
+				padding: 18px;
+				border-radius: 100px;
+				color: white;
+			}
+		</style>
+	</head>
+	<body>
+		<div>
+			<h1>Thank You For Contact Me, I Will Replay As soon As Possible</h1>
+			<a href="/index.html">Back To Home</a>
+		</div>
+	</body>
+</html>
